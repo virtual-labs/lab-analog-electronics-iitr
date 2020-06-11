@@ -1,0 +1,85 @@
+{
+    "broadArea": {
+        "name": "Electronics and Communications",
+        "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+    },
+    "lab": "Analog Integrated Circuits",
+    "deployLab":true,
+    "phase": 3,
+    "collegeName": "IITR",
+    "baseUrl": "http://aic-iitr.vlabs.ac.in",
+    "introduction": "Welcome to the Analog Integrated Cirucuits",
+    "experiments": [
+	        {
+            "name": "Log and antilog amplifiers",
+            "short-name": "log-antilog-amplifier",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/log-antilog-amplifier-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+	        },
+		{	
+	    "name": "Voltage comparator",
+            "short-name": "voltage-comparator",
+            "repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/voltage-comparator-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+	        },
+		{
+	    "name": "Wien bridge oscillator using operational amplifier",
+            "short-name": "wein-bridge-oscillator",
+            "repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/wein-bridge-oscillator-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+	        },
+		{
+	    "name": "Voltage regulator using operational amplifier to produce output of 12V with maximum load current of 50mA",
+            "short-name": "voltage-regulator",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/voltage-regulator-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+	        },
+		{
+	    "name": "Voltage to current converters",
+            "short-name": "voltage-current-converter",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/voltage-current-converter-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+	        },
+		{
+	    "name": "Function generator using operational amplifier (sine, triangular & square wave)",
+            "short-name": "function-generator",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/function-generator-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+                },
+		{
+	    "name": "Astable and monostable multiviberator using IC 555",
+            "short-name": "astable-monostable-multivibrator",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/astable-monostable-multivibrator-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+	        }  
+    ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Electronic and Communications"],
+        "PG": ["MS/Ph. D. Beginners in Electronics and Communications related topics"]
+    },
+    "objective": "To learn and understand the basic concepts of Electronic devices and circuits.",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": ["I. K. Gujral Punjab Technical University Punjab",
+			 "Graphic Era University, Dehradun Uttarakhand",
+			 "Uttarakhand Technical University Uttarakhand",
+			 "Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh Uttar Pradesh",
+			 "Himachal Pradesh Technical University Himachal Pradesh",
+			 "Rajasthan Technical University Rajasthan"	
+			]
+    }
+}
