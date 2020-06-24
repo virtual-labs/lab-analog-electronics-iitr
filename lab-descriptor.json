@@ -1,6 +1,6 @@
 {
     "broadArea": {
-        "name": "Electronics and Communications Engineering",
+        "name": "Electronics and Communication Engineering",
         "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
     },
     "lab": "Analog Integrated Circuits",
@@ -8,7 +8,7 @@
     "phase": 3,
     "collegeName": "IITR",
     "baseUrl": "http://aic-iitr.vlabs.ac.in",
-    "introduction": "Welcome to the Analog Integrated Cirucuits",
+    "introduction": "Welcome to the Analog Integrated Circuits",
     "experiments": [
 	        {
             "name": "Log and antilog amplifiers",
@@ -68,7 +68,7 @@
 	        }  
     ],
     "targetAudience": {
-        "UG": ["B. Tech./ B.E in Electronic and Communications"],
+        "UG": ["B. Tech./ B.E in Electronics and Communications"],
         "PG": ["MS/Ph. D. Beginners in Electronics and Communications related topics"]
     },
     "objective": "To learn and understand the basic concepts of Electronic devices and circuits.",
