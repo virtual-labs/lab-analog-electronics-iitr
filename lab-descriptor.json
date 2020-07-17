@@ -3,12 +3,12 @@
         "name": "Electronics and Communication Engineering",
         "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
     },
-    "lab": "Analog Integrated Circuits",
+    "lab": "Analog Electronics",
     "deployLab":true,
     "phase": 3,
     "collegeName": "IITR",
-    "baseUrl": "http://aic-iitr.vlabs.ac.in",
-    "introduction": "Welcome to the Analog Integrated Circuits",
+    "baseUrl": "http://ae-iitr.vlabs.ac.in",
+    "introduction": "Welcome to the Analog Electronics",
     "experiments": [
 	        {
             "name": "Log and antilog amplifiers",
@@ -59,7 +59,7 @@
             "deploy": true
                 },
 		{
-	    "name": "Astable and monostable multiviberator using IC 555",
+	    "name": "Astable and monostable multivibrator using IC 555",
             "short-name": "astable-monostable-multivibrator",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/analog-electronics-iitr/astable-monostable-multivibrator-iitr",
             "branch": "master",
