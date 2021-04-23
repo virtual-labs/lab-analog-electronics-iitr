@@ -78,5 +78,7 @@
       "Rajasthan Technical University Rajasthan"
     ]
   },
-  "version": "v1.0.3"
+  "version": "v1.1.0",
+  "exp_name": "Astable and monostable multivibrator using IC 555",
+  "exp_short_name": "astable-monostable-multivibrator"
 }
