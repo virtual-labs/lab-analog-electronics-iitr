@@ -14,49 +14,49 @@
       "name": "Log and antilog amplifiers",
       "short-name": "log-antilog-amplifier",
       "repo": "https://github.com/virtual-labs/exp-log-antilog-amplifier-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Voltage comparator",
       "short-name": "voltage-comparator",
       "repo": "https://github.com/virtual-labs/exp-voltage-comparator-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Wien bridge oscillator using operational amplifier",
       "short-name": "wein-bridge-oscillator",
       "repo": "https://github.com/virtual-labs/exp-wein-bridge-oscillator-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Voltage regulator using operational amplifier to produce output of 12V with maximum load current of 50mA",
       "short-name": "voltage-regulator",
       "repo": "https://github.com/virtual-labs/exp-voltage-regulator-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Voltage to current converters",
       "short-name": "voltage-current-converter",
       "repo": "https://github.com/virtual-labs/exp-voltage-current-converter-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Function generator using operational amplifier (sine, triangular & square wave)",
       "short-name": "function-generator",
       "repo": "https://github.com/virtual-labs/exp-function-generator-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Astable and monostable multivibrator using IC 555",
       "short-name": "astable-monostable-multivibrator",
       "repo": "https://github.com/virtual-labs/exp-astable-monostable-multivibrator-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
