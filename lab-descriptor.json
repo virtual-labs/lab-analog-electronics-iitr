@@ -5,6 +5,7 @@
   },
   "lab": "Analog Electronics",
   "deployLab": true,
+  "lab_display_name": "Analog Electronics",
   "phase": 3,
   "collegeName": "IITR",
   "baseUrl": "ae-iitr.vlabs.ac.in",
