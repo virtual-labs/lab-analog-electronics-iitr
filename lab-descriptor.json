@@ -42,7 +42,7 @@
       "name": "Voltage to current converters",
       "short-name": "voltage-current-converter",
       "repo": "https://github.com/virtual-labs/exp-voltage-current-converter-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
