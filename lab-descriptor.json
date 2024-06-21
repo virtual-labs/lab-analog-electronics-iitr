@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
   },
   "lab": "Analog Electronics",
+  "lab_display_name": "Analog Electronics",
   "deployLab": true,
   "lab_display_name": "Analog Electronics",
   "phase": 3,
@@ -78,8 +80,5 @@
       "Himachal Pradesh Technical University Himachal Pradesh",
       "Rajasthan Technical University Rajasthan"
     ]
-  },
-  "version": "v1.11.0",
-  "exp_name": "Astable and monostable multivibrator using IC 555",
-  "exp_short_name": "astable-monostable-multivibrator"
+  }
 }
